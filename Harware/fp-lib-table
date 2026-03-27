@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MOD_IGN")(type "KiCad")(uri "${KIPRJMOD}/MOD_IGN.pretty")(options "")(descr ""))
+  (lib (name "Lib")(type "KiCad")(uri "/media/veracrypt1/Documentos Computador/Pessoal/Moto/módulo ignição/MOD_IGN")(options "")(descr ""))
+)
